@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DAM-SharedPreferences</string>
+    <string name="dap_logo">DAP Logo</string>
+    <string name="campus_igualada_udl">Campus Igualada - UdL</string>
+    <string name="introduce_your_name">Introduce your name:</string>
+    <string name="name">Name</string>
+    <string name="passwrod">Passwrod</string>
+    <string name="username">Username</string>
+    <string name="get_token">Get TOKEN</string>
+    <string name="this_is_your_token">This is your token</string>
+</resources>
