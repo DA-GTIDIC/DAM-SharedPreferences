@@ -2,7 +2,7 @@
 
 Course: Development of Mobile Applications (DAM)
 
-# Course
+# About
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/61190134/76793662-b6b8bd00-67c5-11ea-83b2-efcc9ed462fc.png">
 
